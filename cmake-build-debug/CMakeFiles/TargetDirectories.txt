@@ -1,0 +1,3 @@
+D:/3. My Project/C++/Quera/Animal/cmake-build-debug/CMakeFiles/Animal.dir
+D:/3. My Project/C++/Quera/Animal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/3. My Project/C++/Quera/Animal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
