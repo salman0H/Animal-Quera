@@ -85,10 +85,7 @@ true 2.5 12 10 3 Green Male
 
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page](your-github-repo-link/issues).
 
-## License
-
-[Specify your license here, e.g., MIT]
 
 ## Author
 
-[Your Name]
+Salman Hashemi
